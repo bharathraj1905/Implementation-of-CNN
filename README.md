@@ -100,7 +100,7 @@ def reshape_and_normalize(images):
 # Apply your function
 training_images = reshape_and_normalize(training_images)
 
-print('Name: Meetha Prabhu            RegisterNumber: 212222240065         \n')
+print('Name: BARATHRAJ B            RegisterNumber: 212222230019         \n')
 print(f"Maximum pixel value after normalization: {np.max(training_images)}\n")
 print(f"Shape of training set after reshaping: {training_images.shape}\n")
 print(f"Shape of one image after reshaping: {training_images[0].shape}")
